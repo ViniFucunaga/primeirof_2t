@@ -79,3 +79,7 @@ li a:hover {
   background: rgb(120, 214, 120);
   color: white;
 }
+h1 {
+  text-align: center;
+  left: 50;
+}
